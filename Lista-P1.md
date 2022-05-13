@@ -22,6 +22,14 @@ Fonte: PRONI, M.; O império da concorrência: uma perspectiva histórica das or
 
 ## 6. Explique o que é Renda Nacional Líquida e Renda Per Capita e a importância desses indicadores como expressão de riqueza dos países.
 
+A Renda Nacional Líquida é o resultado da subtração da renda líquida enviada ao exterior do Produto Interno Líquido, isto é, a RNL expressa o valor da riqueza apropriada pelo país, sendo produzida dentro ou fora dele. (RNL = PNL)
+Por sua vez, o Produto Interno Líquido expressa o montante de riqueza produzida no país (Produto Interno Bruto à custo de fatores) subtraído dos valores dos impostos indiretos, subsídios e depreciação. 
+A Renda Nacional é distribuída internamente entre empresários, trabalhadores e para o conjunto da população. 
+
+Calculando a Renda per Capita dividindo a Renda Nacional pelo número de habitantes temos uma métrica para avaliação da cpacidade de produção e/ou apropriação da riqueza pela população, sua comparação permite avaliar a riqueza disponível por pessoa. É importante lembrar que a RpC pode ser muito mal distribuída, ou seja, a parcela rica da população deter um volume muito maior do que o indicado, enquanto os pobres ficom uma renda muito abaixo.
+
+Fonte: SANTOS, A. L. & MANZANO, M.; Conceitos básicos e introdução á dinâmica macroeconômica. Campinas, mimeo, 1998, p. 12-15
+
 ## 7. Explique a crítica de Keynes à Lei de Say e o que é o princípio da demanda efetiva. Mostre a relação desse princípio com a possibilidade de crises e de instabilidade do capitalismo.
 
 ## 8. Mostre as relações existentes entre a preferência pela liquidez, a oferta de moeda (manual e escritural) controlada pelas autoridades monetárias, a incerteza em relação ao futuro, o estado das expectativas, considerando as repercussões sobre a determinação na taxa de juros, segundo Keynes.
