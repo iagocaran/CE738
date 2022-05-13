@@ -2,6 +2,16 @@
 
 ## 1. Descreva as principais características da 1ª Revolução Industrial.
 
+A 1ª Revolução industrial se iniciou da mudança do processo produtivo da manufatura para a maquinofatura, causando grande aumento da produtividade. Junto da introdução da máquina, ocorre uma nova divisão do trabalho, com trabalhadores especializados em uma parte do processo, bem como a introdução do trabalho assalariado. Nesse contexto a máquina serve de ferramenta para subordinar o trabalhador aos donos do negócio, levando a concorrência individual e a sobreexploração da mão de obra. Com o aumento da produtividade, cresce também a acumulação. Tudo isso só foi possível com as inovações técnicas, conhecimentos científicos e o uso de outras fontes de energia.
+
+Pontos principais:
+- Mudança do processo produtivo e uso de máquinas (Manufatura -> Maquinofatura, aumento da produtividade)
+- Mudança de matriz energética (carvão e vapor)
+- Divisão e especialização do trabalho (Trabalhadores cuidam de uma parte pequena do processo ao invés de conhecerem tudo)
+- Novas relações de trabalho (Trabalho assalariado e sobreexploração)
+
+Fonte: PRONI, M.; O império da concorrência: uma perspectiva histórica das origens e expansão do capitalismo. Revista Paranaense de Desenvolvimento. Curitiba, n. 92, set/dez, 1997, p. 8-11
+
 ## 2. Descreva os principais aspectos do desenvolvimento do capitalismo e da industrialização no século XIX.
 
 ## 3. Aponte as principais mudanças tecnológicas e econômicas da Segunda Revolução Industrial e Tecnológica.
@@ -11,6 +21,8 @@
 ## 5. Explique o que é Produto Interno Bruto e Produto Nacional Líquido. Destaque as diferenças entre os dois conceitos e o significado de cada um como instrumento de avaliação da riqueza produzida e apropriada.
 
 ## 6. Explique o que é Renda Nacional Líquida e Renda Per Capita e a importância desses indicadores como expressão de riqueza dos países.
+
+
 
 ## 7. Explique a crítica de Keynes à Lei de São e o que é o princípio da demanda efetiva. Mostre a relação desse princípio com a possibilidade de crises e de instabilidade do capitalismo.
 
