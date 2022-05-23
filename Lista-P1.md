@@ -22,9 +22,7 @@ Fonte: PRONI, M.; O império da concorrência: uma perspectiva histórica das or
 
 ## 6. Explique o que é Renda Nacional Líquida e Renda Per Capita e a importância desses indicadores como expressão de riqueza dos países.
 
-
-
-## 7. Explique a crítica de Keynes à Lei de São e o que é o princípio da demanda efetiva. Mostre a relação desse princípio com a possibilidade de crises e de instabilidade do capitalismo.
+## 7. Explique a crítica de Keynes à Lei de Say e o que é o princípio da demanda efetiva. Mostre a relação desse princípio com a possibilidade de crises e de instabilidade do capitalismo.
 
 ## 8. Mostre as relações existentes entre a preferência pela liquidez, a oferta de moeda (manual e escritural) controlada pelas autoridades monetárias, a incerteza em relação ao futuro, o estado das expectativas, considerando as repercussões sobre a determinação na taxa de juros, segundo Keynes.
 
