@@ -16,6 +16,22 @@ Fonte: PRONI, M.; O império da concorrência: uma perspectiva histórica das or
 
 ## 3. Aponte as principais mudanças tecnológicas e econômicas da Segunda Revolução Industrial e Tecnológica.
 
+Com a Inglaterra perdendo o monopólio industrial, o surgimento de outras potencias industrial faz o livre comércio dar lugar ao protecionismo.
+O crescimento de outros países leva a expansão da infra-estrutura, criação de demanda e viabilização da industrialização com esforço do Estado, levando ao *Capitalismo Concorrencial*.
+A Segunda Revolução Industrial traz o aço, a eletricidade, o motor à combustão e a química pesada. As inovações técnicas passam a ser resultado de planejamento e pesquisa financiados por grandes capitais.
+Novos métodos de gestão da produção e de organização do trabalho, o taylorismo, potencializam a produtividade com maior desqualificação, diferenciação e alienação dos trabalhadores.
+Com a expansão da produção, surge um novo padrão de acumulação com queda no preço dos produtos e expansão do mercado consumidor, aumento do padrão de vida da classe operária.
+
+Pontos principais:
+- Aço, eletricidade, motor à combustão e química pesada
+- Tecnologia fruto da pesquisa financiada por grandes capitais
+- Expansão da infra-estrutura por ação do Estado
+- Novas formas de gestão da produção e organização do trabalho (*taylorismo*)
+- Produção em massa, queda dos preços e expansão do mercado consumidor com um novo padrão de acumulação
+- Centralização e concentração de capitais em empresas gigantes com enormes plantas industriais
+
+Fonte: PRONI, M.; O império da concorrência: uma perspectiva histórica das origens e expansão do capitalismo. Revista Paranaense de Desenvolvimento. Curitiba, n. 92, set/dez, 1997, p. 16-19
+
 ## 4. Explique os principais impactos da crise de 1929.
 
 ## 5. Explique o que é Produto Interno Bruto e Produto Nacional Líquido. Destaque as diferenças entre os dois conceitos e o significado de cada um como instrumento de avaliação da riqueza produzida e apropriada.
