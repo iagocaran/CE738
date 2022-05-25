@@ -2,13 +2,13 @@
 
 ## 1. Descreva as principais características da 1ª Revolução Industrial.
 
-A 1ª Revolução industrial se iniciou da mudança do processo produtivo da manufatura para a maquinofatura, causando grande aumento da produtividade. Junto da introdução da máquina, ocorre uma nova divisão do trabalho, com trabalhadores especializados em uma parte do processo, bem como a introdução do trabalho assalariado. Nesse contexto a máquina serve de ferramenta para subordinar o trabalhador aos donos do negócio, levando a concorrência individual e a sobreexploração da mão de obra. Com o aumento da produtividade, cresce também a acumulação. Tudo isso só foi possível com as inovações técnicas, conhecimentos científicos e o uso de outras fontes de energia.
+A 1ª Revolução industrial se iniciou da mudança do processo produtivo da manufatura para a maquinofatura, causando grande aumento da produtividade. Junto da introdução da máquina, ocorre uma nova divisão do trabalho, com trabalhadores especializados em uma parte do processo, bem como a introdução do trabalho assalariado. Nesse contexto a máquina serve de ferramenta para subordinar o trabalhador aos donos do negócio, levando a concorrência individual e a sobre-exploração da mão de obra. Com o aumento da produtividade, cresce também a acumulação. Tudo isso só foi possível com as inovações técnicas, conhecimentos científicos e o uso de outras fontes de energia.
 
 Pontos principais:
 - Mudança do processo produtivo e uso de máquinas (Manufatura -> Maquinofatura, aumento da produtividade)
 - Mudança de matriz energética (carvão e vapor)
 - Divisão e especialização do trabalho (Trabalhadores cuidam de uma parte pequena do processo ao invés de conhecerem tudo)
-- Novas relações de trabalho (Trabalho assalariado e sobreexploração)
+- Novas relações de trabalho (Trabalho assalariado e sobre-exploração)
 
 Fonte: PRONI, M.; O império da concorrência: uma perspectiva histórica das origens e expansão do capitalismo. Revista Paranaense de Desenvolvimento. Curitiba, n. 92, set/dez, 1997, p. 8-11
 
@@ -38,7 +38,7 @@ A Renda Nacional Líquida é o resultado da subtração da renda líquida enviad
 Por sua vez, o Produto Interno Líquido expressa o montante de riqueza produzida no país (Produto Interno Bruto à custo de fatores) subtraído dos valores dos impostos indiretos, subsídios e depreciação. 
 A Renda Nacional é distribuída internamente entre empresários, trabalhadores e para o conjunto da população. 
 
-Calculando a Renda per Capita dividindo a Renda Nacional pelo número de habitantes temos uma métrica para avaliação da cpacidade de produção e/ou apropriação da riqueza pela população, sua comparação permite avaliar a riqueza disponível por pessoa. É importante lembrar que a RpC pode ser muito mal distribuída, ou seja, a parcela rica da população deter um volume muito maior do que o indicado, enquanto os pobres ficom uma renda muito abaixo.
+Calculando a Renda per Capita dividindo a Renda Nacional pelo número de habitantes temos uma métrica para avaliação da capacidade de produção e/ou apropriação da riqueza pela população, sua comparação permite avaliar a riqueza disponível por pessoa. É importante lembrar que a RpC pode ser muito mal distribuída, ou seja, a parcela rica da população deter um volume muito maior do que o indicado, enquanto os pobres ficam uma renda muito abaixo.
 
 Fonte: SANTOS, A. L. & MANZANO, M.; Conceitos básicos e introdução á dinâmica macroeconômica. Campinas, mimeo, 1998, p. 12-15
 
