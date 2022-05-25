@@ -20,6 +20,18 @@ Fonte: PRONI, M.; O império da concorrência: uma perspectiva histórica das or
 
 ## 5. Explique o que é Produto Interno Bruto e Produto Nacional Líquido. Destaque as diferenças entre os dois conceitos e o significado de cada um como instrumento de avaliação da riqueza produzida e apropriada.
 
+O Produto Interno Bruto (PIB) expressa a soma de todos os bens e serviços finais* produzidos em uma região determinada ao longo de um período, pode-se interpretar também como a soma do valor adicionado em cada segmento da economia em uma região ao longo de um período.
+(* importante repetir a ideia de final para evitar a dupla contagem)
+PIB pode ser definido **a preços de mercado**, quando a soma é feita com base nos preços de mercado, ou **à custo de fatores**, quando subtrai-se o valor dos impostos indiretos e subsídios do PIB p.m..
+
+O Produto Nacional Líquido expressa o montante de riqueza que é apropriada por um país, considerando-se o valor da renda líquida enviada ao exterior (como juros, lucros e royalties remetidos e recebidos). 
+
+`PNL = PIB (c.f) - Depreciação - Renda Líquida Enviada ao Exterior`
+
+A principal diferença é que enquanto o PIB expressa tudo o que é produzido no país, o PNL tudo que é apropriado pelo país, sendo que a diferença entre os dois dá indícios do quanto dinheiro o país envia ou recebe do exterior, isto é, o Produto Nacional será menor que o Produto Interno se o país envia mais renda ao exterior do que recebe. 
+
+Fonte: SANTOS, A. L. & MANZANO, M.; Conceitos básicos e introdução á dinâmica macroeconômica. Campinas, mimeo, 1998, p. 9-15
+
 ## 6. Explique o que é Renda Nacional Líquida e Renda Per Capita e a importância desses indicadores como expressão de riqueza dos países.
 
 A Renda Nacional Líquida é o resultado da subtração da renda líquida enviada ao exterior do Produto Interno Líquido, isto é, a RNL expressa o valor da riqueza apropriada pelo país, sendo produzida dentro ou fora dele. (RNL = PNL)
