@@ -14,6 +14,21 @@ Fonte: PRONI, M.; O império da concorrência: uma perspectiva histórica das or
 
 ## 2. Descreva os principais aspectos do desenvolvimento do capitalismo e da industrialização no século XIX.
 
+No início do século XIX a dominação inglesa deixa de ser naval para ser econômica em vista de sua industrialização antecipada.
+O liberalismo econômico faz o país se estabelecer como grande exportador de manufaturas, ferro, carvão e máquinas, ao mesmo tempo que importava alimentos e matérias-primas, sendo esse movimento o principal financiador do comércio internacional. 
+Isso causou o desenvolvimento e a acumulação industrial em outros países como Alemanha, EUA e França, seguidos por Rússia, Japão e Itália.
+Com a dominação inglesa no setor têxtil, a industrialização pós Revolução Industrial levou à priorização do setor de bens de produção visando garantir a criação de um mercado interno capitalista e alavancar a acumulação industrial.
+Nos países da segunda onda que se desenvolveram durante a Grande Depressão de 1873-96, a queda generalizada dos preços e as novas matrizes tecnológica, exigiram do Estado maior atuação na centralização de recursos e investimentos em infra-estrutura, criação de demanda e viabilização da industrialização.
+
+Pontos principais:
+- Liberalismo econômico inglês
+- Estruturação de um mercado interno capitalista e acumulação de capital
+- Mercado internacional favorável e padrão tecnológico consolidado na primeira metade do séc. XIX
+- Atuação decisiva do Estado na superação do atraso técnico e financeiro na segunda metade,
+- Recursos e investimentos centralizados pelo Estado para viabilizar a industrialização
+
+Fonte: PRONI, M.; O império da concorrência: uma perspectiva histórica das origens e expansão do capitalismo. Revista Paranaense de Desenvolvimento. Curitiba, n. 92, set/dez, 1997, p. 11-16
+
 ## 3. Aponte as principais mudanças tecnológicas e econômicas da Segunda Revolução Industrial e Tecnológica.
 
 Com a Inglaterra perdendo o monopólio industrial, o surgimento de outras potencias industrial faz o livre comércio dar lugar ao protecionismo.
