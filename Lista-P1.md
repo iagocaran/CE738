@@ -49,6 +49,23 @@ Fonte: PRONI, M.; O império da concorrência: uma perspectiva histórica das or
 
 ## 4. Explique os principais impactos da crise de 1929.
 
+No pós-guerra, o equilíbrio do poder político-militar não se estabeleceu, com as economias europeias bastante conservadoras para se recuperar,  o sistema monetário internacional baseado na equivalência libra/ouro não se manteve.
+Com a influencia americana no comércio e nas finanças internacionais, esses países ficaram dependentes e vulneráveis ao comportamento da economia norte-americana.
+
+O crescimento americano nos anos 20 se baseou na expansão do crédito para o consumo de bens duráveis e no endividamento das famílias. Com a intensificação dos negócios na bolsa de valores, o crack em 29 levou a falência diversas empresas, ao desemprego e a um pesadelo social.
+
+A queda da economia americana, fez os Estados isolarem as suas economias para protegê-las das instabilidades do sistema econômico internacional e da racionalidade estreita dos agentes privados.
+
+No início dos anos 30, o programa de recuperação nazista e o New Deal combateram o desemprego e defenderam a renda interna com gasto público, rompendo com o equilíbrio fiscal. Após 1945, houve necessidade de planejamento público e regulação estatal sobre as variáveis do mercado (juros, câmbio, salários).
+
+Pontos principais:
+- Grande crise social com a quebra da bolsa americana (falência de empresas e desemprego)
+- Isolamento das economias para proteção contra as instabilidades do sistema econômico internacional e da racionalidade dos agentes privados
+- Intervenção estatal com gasto público para combater o desemprego e a defender a renda interna
+- Maior controle estatal nas variáveis de mercado (juros, câmbio e salários)
+
+Fonte: PRONI, M.; O império da concorrência: uma perspectiva histórica das origens e expansão do capitalismo. Revista Paranaense de Desenvolvimento. Curitiba, n. 92, set/dez, 1997, p. 19-22
+
 ## 5. Explique o que é Produto Interno Bruto e Produto Nacional Líquido. Destaque as diferenças entre os dois conceitos e o significado de cada um como instrumento de avaliação da riqueza produzida e apropriada.
 
 O Produto Interno Bruto (PIB) expressa a soma de todos os bens e serviços finais* produzidos em uma região determinada ao longo de um período, pode-se interpretar também como a soma do valor adicionado em cada segmento da economia em uma região ao longo de um período.
