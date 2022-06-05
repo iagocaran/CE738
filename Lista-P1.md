@@ -92,6 +92,25 @@ Fonte: SANTOS, A. L. & MANZANO, M.; Conceitos básicos e introdução á dinâmi
 
 ## 7. Explique a crítica de Keynes à Lei de Say e o que é o princípio da demanda efetiva. Mostre a relação desse princípio com a possibilidade de crises e de instabilidade do capitalismo.
 
+A teoria econômica clássica se baseia na hipótese do pleno emprego do trabalho e demais fatores de produção pelo conceito de que "a oferta cria sua própria procura", chamada de lei de Say.
+Nesse modelo, o produtor traz mercadorias ao mercado para trocá-las por outras mercadorias, sendo que anomalias ao modelo são culpa dos governos ou monopólios privados.
+
+Keynes defende que o nível de emprego é flutuante e sustentado pela demanda efetiva, não pelos contratos entre patrões e operários. A demanda efetiva é o valor dado pelo ponto de interseção entre a demanda agregada e oferta agregada, isto é, o valor da demanda por bens e serviços para a qual existe capacidade de pagamento.
+
+A crítica de Keynes a lei de Say se resume no princípio de que a procura puxa a oferta, isto é, existe uma possibilidade de superprodução na qual o valor produzido não pode ser consumido, logo deve haver investimento para diluir o excesso de produção através do aumento de demanda pela elevação do número de empregados.
+De forma simplificada, a lei de Say equivale a dizer que não há obstáculo ao pleno emprego, enquanto Keynes afirma que o nível de emprego varia.
+
+Seguindo o princípio da demanda efetiva, uma diminuição do consumo sem aumento do investimento, pode conduzir a diminuição da procura agregada e, portanto, ao desemprego. O que pode ocorrer como resultado de superprodução, ao exemplo da crise de 29, na qual a capacidade produtiva estava muito acima das condições do mercado de absorvê-la.
+Assim, fica evidente que a estabilidade do capitalismo é frágil, pois a existência de uma demanda efetiva insuficiente pode paralisar o aumento do emprego antes de haver alcançado um nível de pleno emprego, inibindo o processo de produção ainda que haja uma lacuna entre a produção efetiva e a potencial.
+
+Fontes: 
+ - DILLARD, D. A Teoria Econômica de John Maynard Keynes. São Paulo: Pioneira, 1993. Caps. II (“O fundo
+clássico”) e III (“Resumo preliminar da teoria geral do emprego”).
+ - KEYNES, John M. A Teoria Geral do Emprego, do Juro e da Moeda. Atlas, 1982, capítulo 3.
+ - PRONI, M.; O império da concorrência: uma perspectiva histórica das origens e expansão do capitalismo. Revista Paranaense de Desenvolvimento. Curitiba, n. 92, set/dez, 1997, p. 19-21
+
+---
+
 A lei de Say diz que a “oferta cria sua própria demanda'', ou seja, à medida que se aumenta a oferta de um determinado produto ou serviço, sua demanda aumenta por consequência. A crítica de Keynes a essa lei é de tal modo a se inverterem os fatores dominantes e dominados. Em outras palavras, Keynes afirma em linhas gerais que é a demanda que cria sua própria oferta. Com isso, o princípio da demanda efetiva diz que deve haver um investimento para se diluir o excesso de produção e oferecimento de serviços, aumentando assim a demanda e consequentemente o número de empregados.
 A partir deste conceito, é possível observar o porquê possíveis crises no sistema, sendo que em algum momento o nível de produção se tornará maior do que o nível de consumo, gerando uma estagnação no nível de emprego e vendas. Sem que haja um investimento externo ou por parte do estado, essa crise pode se agravar e se mostrar duradoura. 
 
