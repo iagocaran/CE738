@@ -92,6 +92,23 @@ Fonte: SANTOS, A. L. & MANZANO, M.; Conceitos básicos e introdução á dinâmi
 
 ## 7. Explique a crítica de Keynes à Lei de Say e o que é o princípio da demanda efetiva. Mostre a relação desse princípio com a possibilidade de crises e de instabilidade do capitalismo.
 
+A teoria econômica clássica se baseia na hipótese do pleno emprego do trabalho e demais fatores de produção pelo conceito de que "a oferta cria sua própria procura", chamada de lei de Say.
+Nesse modelo, o produtor traz mercadorias ao mercado para trocá-las por outras mercadorias, sendo que anomalias ao modelo são culpa dos governos ou monopólios privados.
+
+Keynes defende que o nível de emprego é flutuante e sustentado pela demanda efetiva, não pelos contratos entre patrões e operários. A demanda efetiva é o valor dado pelo ponto de interseção entre a demanda agregada e oferta agregada, isto é, o valor da demanda por bens e serviços para a qual existe capacidade de pagamento.
+
+A crítica de Keynes a lei de Say se resume no princípio de que a procura puxa a oferta, isto é, existe uma possibilidade de superprodução na qual o valor produzido não pode ser consumido, logo deve haver investimento para diluir o excesso de produção através do aumento de demanda pela elevação do número de empregados.
+De forma simplificada, a lei de Say equivale a dizer que não há obstáculo ao pleno emprego, enquanto Keynes afirma que o nível de emprego varia.
+
+Seguindo o princípio da demanda efetiva, uma diminuição do consumo sem aumento do investimento, pode conduzir a diminuição da procura agregada e, portanto, ao desemprego. O que pode ocorrer como resultado de superprodução, ao exemplo da crise de 29, na qual a capacidade produtiva estava muito acima das condições do mercado de absorvê-la.
+Assim, fica evidente que a estabilidade do capitalismo é frágil, pois a existência de uma demanda efetiva insuficiente pode paralisar o aumento do emprego antes de haver alcançado um nível de pleno emprego, inibindo o processo de produção ainda que haja uma lacuna entre a produção efetiva e a potencial.
+
+Fontes: 
+ - DILLARD, D. A Teoria Econômica de John Maynard Keynes. São Paulo: Pioneira, 1993. Caps. II (“O fundo
+clássico”) e III (“Resumo preliminar da teoria geral do emprego”).
+ - KEYNES, John M. A Teoria Geral do Emprego, do Juro e da Moeda. Atlas, 1982, capítulo 3.
+ - PRONI, M.; O império da concorrência: uma perspectiva histórica das origens e expansão do capitalismo. Revista Paranaense de Desenvolvimento. Curitiba, n. 92, set/dez, 1997, p. 19-21
+
 ## 8. Mostre as relações existentes entre a preferência pela liquidez, a oferta de moeda (manual e escritural) controlada pelas autoridades monetárias, a incerteza em relação ao futuro, o estado das expectativas, considerando as repercussões sobre a determinação na taxa de juros, segundo Keynes.
 
 ## 9. Segundo Keynes: "Não é surpreendente que o volume dos investimentos flutue muito através do tempo. Isso porque ele depende de dois conjuntos de opiniões sobre o futuro - nenhum dos quais se apoia num fundamento adequado ou seguro - sobre a propensão a estourar e sobre a futura rentabilidade dos ativos de capital". Desenvolva o argumento e comente suas implicações.
