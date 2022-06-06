@@ -171,3 +171,13 @@ Outra característica importante desse período foi o Estado de Bem Estar Social
 Por fim, uma outra característica muito importante dessa época foi a nova relação estabelecida entre o capital e trabalho. Nesse período, houve uma generalização de acordos entre grandes empresas e sindicatos, como as vendas e o estado do mercado se mantinham em alta crescente, foi possível por meio desses acordos aumentar a renda média dos trabalhadores. Esse processo gerou um novo consumo em massa das mercadorias produzidas, o que novamente impactava positivamente na economia e nas empresas da época.
 
 ## 15. Descreva as principais mudanças ocorridas na ordem internacional a partir dos anos 70 e que iriam caracterizar a atual etapa chamada de "Globalização" ou de "Neoliberalismo".
+
+Nos anos 70, o padrão de desenvolvimento pós-Guerra começou a se esgotar, levando a uma crise do Estado de Bem-Estar. Uma das mudanças que contribuiu para isso foi a desarticulação do sistema monetário internacional.
+O surgimento da "euromoeda" que atraiu os dólares disponíveis no mercado Europeu para ativos com maior liquidez e rentabilidade, afetando as moedas nacionais com a especulação e desestabilizando o comércio internacional.
+Esse movimento levou as grandes empresas multinacionais a se converterem em transnacionais, escapando à regulação dos estados industrializados. A queda da rentabilidade e a competição levou os grandes detentores de capital a procurarem se libertar dos controles de impostos.
+Essa é a raiz do processo de "globalização". Do ponto de visto produtivo ela esta relacionada aos diferentes componentes de um bem industrial serem produzidos em diferentes países, enquanto do ponto de vista financeiro se refere a capacidade de movimentar excedentes de capital entre os principais polos financeiros do planeta.
+Outros dois processos são importantes para entender a globalização.
+O primeiro é a liberalização econômica, a recessão dos meados de 70 fortaleceu as teses neoliberais causando enxugamento do setor público e liberalização (desregulamentação) do mercado.
+O segundo é a reestruturação produtiva e organizacional como resposta à nova concorrência capitalista buscando produtividade, os pontos principais são: incorporação da informática e da robótica, maior flexibilidade no processo produtivo para ajustar a produção às vendas, redução no quadro funcional e simplificação das hierarquias, terceirização das atividades, assim como o surgimento de novos setores industriais e o desenvolvimento das telecomunicações.
+
+Fonte: PRONI, M.; O império da concorrência: uma perspectiva histórica das origens e expansão do capitalismo. Revista Paranaense de Desenvolvimento. Curitiba, n. 92, set/dez, 1997, p. 26-30
