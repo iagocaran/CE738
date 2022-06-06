@@ -135,6 +135,9 @@ Durante a fase otimista ocorre o contrário, os juros altos seguram o investimen
 
 ## 12. Explique a relação entre instabilidade do investimento, da demanda e dos níveis de produção e emprego, com a necessidade de intervenção estatal e a adoção de uma política fiscal expansionista, considerando as análises de Keynes.
 
+Para Keynes, em um mercado sem intervenção estatal alguma, a economia não chegaria em uma posição de equilíbrio. Isso porque, tanto em momentos de crise quanto em booms econômicos, não tendo um órgão para intervir e estabilizar especulações exageradas, a volatilidade do mercado seria muito grande, impactando diretamente a demanda, níveis de produção, empregos e os investimentos realizados no país.
+Segundo Keynes, é dever do Estado estabilizar essas situações através de uma polícia fiscal expansionista, com redução de impostos para segmentos específicos da economia afetados por impactos macroeconômicos, investimento para reaquecer a economia, dentre outras que visam estabilidade econômica sem comprometer a liberdade dos mercados.
+
 ## 13. Explique como o movimento do capitalismo a longo prazo pode criar uma super população relativa (excedente) segundo Marx.
 
 Para Marx, o lucro é a base do sistema capitalista.
