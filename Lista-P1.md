@@ -137,6 +137,12 @@ Durante a fase otimista ocorre o contrário, os juros altos seguram o investimen
 
 ## 13. Explique como o movimento do capitalismo a longo prazo pode criar uma super população relativa (excedente) segundo Marx.
 
+Para Marx, o lucro é a base do sistema capitalista.
+Portanto, quanto mais lucro, mais cresce uma empresa pode crescer. E, quanto menos ela gastar com funcionários (salário), mais lucro terá.
+Nesse sentido as empresas possuem um incentivo em aumentar a sua produtividade, na maioria dos casos por avanços técnicos, diminuindo os custos de produção e gerando menos emprego para uma dada produção.
+Esse ciclo de investimento causa uma concentração de renda e consequente domínio do mercado pelas empresas que já possuem grandes investimentos.
+Sem concorrência e empregando menos funcionários, mas mantendo a produção, cria-se a longo prazo, segundo Marx, uma superpopulação relativa (excedente) a medida que a demanda agregada diminui.
+
 ## 14. Descreva as principais características da evolução econômica e social do período 1945-73 nas economias capitalistas desenvolvidas.
 
 Uma das principais características da evolução econômica do período de 1945-73 foi a mudança da antiga moeda-mercadoria para a nova e em assentamento moeda-crédito. A moeda-mercadoria apenas podia ser criada e vinculada à uma certa quantidade de ouro ou mercadoria valiosa não perecível, o que era restritivo para a época de expansão comercial e econômica, que demandava mais crédito. Logo, a moeda-crédito veio como uma alternativa de criação de mais crédito para alimentar a demanda por dinheiro da época. 
