@@ -116,6 +116,23 @@ A partir deste conceito, é possível observar o porquê possíveis crises no si
 
 ## 8. Mostre as relações existentes entre a preferência pela liquidez, a oferta de moeda (manual e escritural) controlada pelas autoridades monetárias, a incerteza em relação ao futuro, o estado das expectativas, considerando as repercussões sobre a determinação na taxa de juros, segundo Keynes.
 
+Quando um indivíduo obtém um investimento, adquire direito ao fluxo de rendas futuras que espera obter enquanto durar esse capital. Um investimento se torna razoavelmente "seguro" para o investidor individual em períodos curtos e para uma sucessão de tais períodos enquanto ele conseguir confiar no seu raciocínio e puder rever seu investimento antes que ocorram grandes alterações.
+A taxa de juros é a recompensa de renúncia à liquidez. Se ela se reduz, a quantidade de moeda que deseja-se conservar excede a oferta disponível; se ela se elevar, haverá um excedente de moeda que ninguém quer reter.
+A preferência pela liquidez advém da incerteza quanto ao futuro da taxa de juros, pois a necessidade de liquidez antes do fim do investimento acarreta em risco de perda ao converter a dívida a longo prazo comparativamente a ter conservado o dinheiro como tal.
+A preferência pela liquidez (moeda) se baseia nos seguintes motivos: 
+ - Motivo transação: Por necessidades de transações correntes entre os agentes econômicos (dependente exclusivamente da renda).
+ - Motivo Precaução: quando o agente retêm alguma quantidade de moeda afim de se prevenir de algum gasto inesperado.
+ - Motivo Especulação: está relacionado na incerteza sobre a taxa de juros futura.
+ - Motivo Financeiro: refere-se a um gasto menos rotineiro, porém planejado.
+
+Resumindo, a motivação para investir é o ganho esperado com o investimento calculado à luz das informações atuais. Quanto maior a incerteza quanto ao rendimento, maior a preferência pela liquidez, isto é, se uma queda é esperada na taxa de juros, pode haver perda de dinheiro de um investimento em relação a tê-lo conservado como dinheiro.
+
+Por meio do controle da oferta de moeda, as autoridades monetárias podem interferir no interesse pela liquidez, levando a variações na taxa de juros que afetaram o nível de investimento das empresas e posteriormente o nível de emprego.
+
+---
+
+Segundo Keynes, a preferência pela liquidez determina a quantidade de moeda que o público deseja reter de acordo com o valor da taxa de juros: “Isto implica que, se a taxa de juros fosse menor, isto é, se a recompensa da renúncia à liquidez se reduzisse, o montante agregado de moeda que o público desejaria conservar excederia a oferta disponível e que, se a taxa de juros se elevasse, haveria um excedente de moeda que ninguém estaria disposto a reter”. Portanto os motivos que levam os indivíduos a demandarem moedas são eles: 1) Motivo transação: Por necessidades de transações correntes entre os agentes econômicos (dependente exclusivamente da renda). 2) Motivo Precaução: quando o agente retêm alguma quantidade de moeda afim de se prevenir de algum gasto inesperado. 3) Motivo Especulação: está relacionado na incerteza sobre a taxa de juros futura. 4) Motivo Financeiro: refere-se a um gasto menos rotineiro, porém planejado. 
+
 ## 9. Segundo Keynes: "Não é surpreendente que o volume dos investimentos flutue muito através do tempo. Isso porque ele depende de dois conjuntos de opiniões sobre o futuro - nenhum dos quais se apoia num fundamento adequado ou seguro - sobre a propensão a estourar e sobre a futura rentabilidade dos ativos de capital". Desenvolva o argumento e comente suas implicações.
 
 O argumento de Keynes de que o valor de um ativo flutue muito se baseia na crítica de dois pontos que os investidores utilizam para avaliação: o preço que a ação irá consolidar no futuro e a propensão de compras da mesma pelos investidores no geral. Keynes argumenta que esses dois pontos são incertos, uma vez que não é possível realizar nenhum tipo de estudo empírico ou exato, ou seja, não é possível dizer com exatidão qual será o preço de uma ação no futuro, o que é feito é um chute por parte do investidor. O mesmo pode ser argumentado, segundo Keynes, sobre a propensão de compras. Essa linha de raciocínio implica que a estrutura de investimento especulativo é passível de grandes quedas inesperadas, uma vez que sua base e seus métodos não são fundados em características concretas sobre o mundo.
